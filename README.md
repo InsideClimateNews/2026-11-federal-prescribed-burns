@@ -20,7 +20,7 @@ The following charts show the number and acres burned by calendar year. (Note, d
 
 ![](charts/fed_prescribed_type.png)
 
-**Burn types:**
+**Burn types**
 
 **Broadcast Burn:** Prescribed burn in which a low-intensity fire is spread across a large predetermined area
 
@@ -32,7 +32,7 @@ The following charts show the number and acres burned by calendar year. (Note, d
 
 ![](charts/fed_prescribed_type_agency.png)
 
-**Agencies:**
+**Agencies**
 
 **Department of the Interior:**
 
