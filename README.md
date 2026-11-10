@@ -36,19 +36,19 @@ The following charts show the number and acres burned by calendar year. (Note, d
 
 **Department of the Interior:**
 
-**BIA:** Bureau of Indian Affairs
+    **BIA:** Bureau of Indian Affairs
 
-**BLM:** Bureau of Land Management
+    **BLM:** Bureau of Land Management
 
-**BOR:** Bureau of Reclamation
+    **BOR:** Bureau of Reclamation
 
-**FWS:** U.S. Fish and Wildlife Service
+    **FWS:** U.S. Fish and Wildlife Service
 
-**NPS:** National Park Service
+    **NPS:** National Park Service
 
 **U.S. Department of Agriculture:**
 
-**USFS:** U.S. Forest Service
+    **USFS:** U.S. Forest Service
 
 The U.S. Forest Service is the most important agency for prescribed burns. The number of pile burns conducted by the U.S. Forest Service almost doubled after the Hermit’s Peak-Calf Canyon incident, comparing 2023 to 2025 to the three years from 2020 to 2022. These burns, which can be [conducted under cooler and wetter conditions](https://psl.noaa.gov/news/2026/prescribedburns.html) after the main fire season, are generally considered less likely to get out of control. Still, they accounted for a tiny fraction of the total acres burned.
 
