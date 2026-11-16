@@ -1,6 +1,6 @@
 # **Analysis of Federal Prescribed Burns**
 
-[R](https://www.r-project.org/) code to reproduce the analysis of prescribed burning to reduce wildfire risk by federal agencies, referenced in [this Nov. xx, 2026, Inside Climate News article](https://insideclimatenews.org/news/).
+[R](https://www.r-project.org/) code to reproduce the analysis of prescribed burning to reduce wildfire risk by federal agencies, referenced in [this Nov. 17, 2026, Inside Climate News article](https://insideclimatenews.org/news/17112026/wildfire-litigation-complicating-prescribed-burns/).
 
 ### **Code/data**
 
